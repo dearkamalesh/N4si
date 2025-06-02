@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm kamalesh T </h1>
-<h3 align="center">🚀 Blockchain Developer | 🌐 Web3 Enthusiast | 🧠 Lifelong Learner</h3>
+<h3 align="center">🚀 Blockchain Developer | 🌐 Web3 Enthusiast </h3>
 
 ---
 
